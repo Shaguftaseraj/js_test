@@ -44,8 +44,8 @@ Assessment Requirements
  }
  // call your functions below this line
  mintNFT("Shagufta", 19,"Delhi","Black", "Bodycon");
- mintNFT("Ehtesham",22,"MP", "Blue", "Hoodie", "Hoops");
- mintNFT("Shahnawaz",21,"UP", "Brown", "Cargo", "Silver Chain");
+ mintNFT("Ehtesham",22,"MP", "Blue", "Hoodie");
+ mintNFT("Shahnawaz",21,"UP", "Brown", "Cargo");
  mintNFT("Bella",22,"Kolkata","Dark Blue","Polo");
  mintNFT("Tanu",17,"Bangladesh","White","Full");
  listNFTs();
